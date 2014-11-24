@@ -13,7 +13,7 @@ links
 
 usage
 ======================
-* Install uliweb & plugs
+* Install uliweb & plugs, and bpmappers
 * get the source code of reactjs_uliweb_example
 * run 'uliweb sunserver' in reactjs_uliweb_example directory
 * visit http://localhost:8000
